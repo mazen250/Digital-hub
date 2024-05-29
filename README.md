@@ -46,7 +46,7 @@ This application utilizes the following technologies:
 1. Clone the repository:
 
    ````bash
-   git clone https://your-git-repository-url.git
+   git clone https://https://github.com/mazen250/Digital-hub.git
    cd your-project-directory
    npm install
    npm run dev
@@ -54,3 +54,5 @@ This application utilizes the following technologies:
    ````
 
 - This will start the development server, typically accessible at `http://localhost:3000/` in your browser.
+
+- Or simply open it at `(https://digital-hub.vercel.app/)`
